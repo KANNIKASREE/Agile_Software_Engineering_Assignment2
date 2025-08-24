@@ -5,4 +5,4 @@
 ![Sequence Diagram](https://github.com/KANNIKASREE/Agile_Software_Engineering_Assignment2/blob/main/Image%202.jpg)
 
 ### 3. Class Diagram
-![Class Diagram](./images/ClassDiagram.jpg)
+![Class Diagram](https://github.com/KANNIKASREE/Agile_Software_Engineering_Assignment2/blob/main/Image%203.jpg)
