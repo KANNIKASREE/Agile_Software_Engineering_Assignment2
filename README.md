@@ -1,1 +1,8 @@
-# Agile_Software_Engineering_Assignment2
+### 1. Use Case Diagram
+![Use Case Diagram]()
+
+### 2. Sequence Diagram
+![Sequence Diagram](./images/SequenceDiagram.jpg)
+
+### 3. Class Diagram
+![Class Diagram](./images/ClassDiagram.jpg)
